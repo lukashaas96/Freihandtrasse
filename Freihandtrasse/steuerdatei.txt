@@ -1,0 +1,12 @@
+Digitalisiertung_Volkspark	# Gewählter Layer
+p				# Art der Krümmungsberechnung
+1				# Glättungsfaktor Richtungswinkel
+12				# Glättungsfaktor Krümmungen
+18				# Anzahl horizontaler Bereiche
+70 				# Prozentsatz benutzter Punkte des Bereichs für ein BE
+8				# Min. Punkte, damit das Programm eine Achsparallele erkennt
+10 				# Kreis zu Gerade (Prozentsatz des k-Medians)
+20				# neues BE in gleichem Bereich (n * Median der Punktabstände)
+20 				# min. Länge [m] eingeschlossener Kreisbögen (Eilinien-Schwelle) 
+5				# Stationierung der Zwischenpunkte [m]
+100				# 1000 = Kilometrierung, 100 = Hektometrierung
