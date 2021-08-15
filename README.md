@@ -21,4 +21,5 @@ Nach einem Neustart von QGIS ist das Plugin im Kontextmenü [Erweiterungen] in d
 Eine ausführliche Anleitung des Plugins, die auch auf die Parametrisierung eingeht, ist im Dokument "instructions" gegeben. 
 
 © 2020 Lukas Haas
+
 Dieses Werk einschließlich seiner Teile ist urheberrechtlich geschützt. Jede Verwertung außerhalb der engen Grenzen des Urheberrechtgesetzes ist ohne Zustimmung des Autors unzulässig und strafbar. Das gilt insbesondere für Vervielfältigungen, Übersetzungen, Mikroverfilmungen sowie die Einspeicherung und Verarbeitung in elektronischen Systemen.
