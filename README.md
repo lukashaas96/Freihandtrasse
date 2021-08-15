@@ -20,6 +20,17 @@ Nach einem Neustart von QGIS ist das Plugin im Kontextmenü [Erweiterungen] in d
 
 Eine ausführliche Anleitung des Plugins, die auch auf die Parametrisierung eingeht, ist im Dokument "instructions" gegeben. 
 
+- metadata
+
+[general]
+name=Freihandtrasse
+email=lukas.haas@students.hs-mainz.de
+author=Lukas Haas
+qgisMinimumVersion=3.0
+description=Bestimmmung von Trassierungselementen aus in QGIS digitalisiertem grafischen Entwurf
+about=Mithilfe dieses Plugins können Freihandlinien in Form von einzelnen Punkten eingelesen oder digitalisiert werden. Aus diesen Punkten errechnet das Plugin Trassierungselemente der Lage, um eine Achse an die digitalisierten Punkte annähern zu können. Nun können die Bogenhauptpunkte und Zwischenpunkte ausgegeben werden.
+version=1.0
+
 © 2020 Lukas Haas
 
 Dieses Werk einschließlich seiner Teile ist urheberrechtlich geschützt. Jede Verwertung außerhalb der engen Grenzen des Urheberrechtgesetzes ist ohne Zustimmung des Autors unzulässig und strafbar. Das gilt insbesondere für Vervielfältigungen, Übersetzungen, Mikroverfilmungen sowie die Einspeicherung und Verarbeitung in elektronischen Systemen.
