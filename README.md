@@ -23,8 +23,8 @@ Eine ausführliche Anleitung des Plugins, die auch auf die Parametrisierung eing
 - metadata
 
 [general]
-name=Freihandtrasse
-email=lukas.haas@students.hs-mainz.de
+name=Freihandtrasse \n
+email=lukas.haas@students.hs-mainz.de 
 author=Lukas Haas
 qgisMinimumVersion=3.0
 description=Bestimmmung von Trassierungselementen aus in QGIS digitalisiertem grafischen Entwurf
