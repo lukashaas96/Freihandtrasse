@@ -23,7 +23,7 @@ Eine ausführliche Anleitung des Plugins, die auch auf die Parametrisierung eing
 - metadata
 
 [general]
-name=Freihandtrasse \n
+name=Freihandtrasse
 email=lukas.haas@students.hs-mainz.de 
 author=Lukas Haas
 qgisMinimumVersion=3.0
