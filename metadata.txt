@@ -8,6 +8,7 @@ about=Mithilfe dieses Plugins können Freihandlinien in Form von einzelnen Punkt
 version=1.0
 tracker=https://gitlab.rlp.net/lukashaas/freihandtrasse/-/issues
 repository=https://gitlab.rlp.net/lukashaas/freihandtrasse/
+homepage=https://gitlab.rlp.net/lukashaas/freihandtrasse/
 tags=routing, freehand line, digitizing, curvature diagram, linear regression line
 icon=icon.png
 experimental=true
