@@ -18,7 +18,7 @@ Zuerst muss der gesamte Ordner "Freihandtrasse", der die in dieser Bachelorarbei
 Der Ordner AppData befindet sich im Ordner des jeweiligen Benutzerprofils und ist meist ausgeblendet.
 Nach einem Neustart von QGIS ist das Plugin im Kontextmenü [Erweiterungen] in der Auflistung aller Plugins unter dem Menüpunkt [Erweiterungen verwalten und installieren] gelistet. Hier existiert für jedes Plugin eine Informationsseite, die mit den Metadaten in der Datei metadata.txt gefüllt ist. Neben den Informationen zum Plugin und dessen Entwickler existiert hier die Möglichkeit, das Plugin zu installieren. Nach der Installation des Plugins erscheint im Kontextmenü [Erweiterungen] der Menüpunkt [Freihandtrasse]. Durch Auswahl des Menüpunktes wird das Plugin gestartet. 
 
-Eine ausführliche Anleitung des Plugins, die auch auf die Parametrisierung eingeht, ist im Dokument "instructions" gegeben. 
+Eine ausführliche Anleitung des Plugins, die auch auf die Parametrisierung eingeht, ist im Dokument "documentation" gegeben. 
 
 © 2020 Lukas Haas
 
